@@ -5,6 +5,8 @@ public class VIdeogame {
 
         Character personaje1= new Character();
         System.out.println(personaje1);
+        Enemigo enemigo1=new Enemigo();
+        System.out.println(enemigo1);
 
     }
 }

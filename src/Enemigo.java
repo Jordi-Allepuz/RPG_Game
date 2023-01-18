@@ -33,7 +33,10 @@ public class Enemigo {
 
     public String toString() {
 
-        return  "Tipo: " + type + "\n" + "Daño: " + damage + "\n" + "Vida: " + life;
-
-
+        return "-----Caracteristicas enemigo------" + "\n"
+                + "Tipo: " + type + "\n"
+                + "Daño: " + damage + "\n"
+                + "Vida: " + life;
     }
+
+}

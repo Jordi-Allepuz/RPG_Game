@@ -43,11 +43,14 @@ public class Character {
 
     public String toString() {
 
-        return "Nombre: " + name + "\n" + "Tipo: " + type + "\n" + "Daño: " + damage + "\n" + "Vida: " + life;
+        return "-----Caracteristicas personaje------" + "\n"
+                + "Nombre: " + name + "\n"
+                + "Tipo: " + type + "\n"
+                + "Daño: " + damage + "\n"
+                + "Vida: " + life;
 
 
     }
-
 
 
 }
